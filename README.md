@@ -46,7 +46,7 @@ MediaCrawlerPro 工具族（基于开源 MediaCrawler 二次开发的增强版�
 
 ## 🧪 实验沙盒 / Sandbox
 
-junittest · pytestBaseModel · 🔒 pure-project — 试验田，随手测试用
+🔒 junittest · 🔒 pytestBaseModel · 🔒 pure-project — 试验田，随手测试用
 
 ---
 
